@@ -9,7 +9,6 @@ export default defineConfig({
                 'resources/assets/sass/admin.scss',
                 'resources/assets/js/app.js',
                 'resources/assets/js/admin.js',
-                'resources/assets/js/dashboard.js'
             ],
             refresh: true,
         }),
